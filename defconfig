@@ -1,20 +1,20 @@
 URLs for the latest continuous deployment build of Microsoft Teams:
-1.5.00.24174 (win-x64) - published on Monday, August 29, 2022 at 11:03 PM with 132 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.24174/Teams_windows_x64.exe
-1.5.00.24174 (win-x64) - published on Monday, August 29, 2022 at 11:03 PM with 134 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.24174/Teams_windows_x64.msi
-1.5.00.24174 (win-x86) - published on Monday, August 29, 2022 at 10:57 PM with 125 MB: https://statics.teams.cdn.office.net/production-windows/1.5.00.24174/Teams_windows.exe
-1.5.00.24174 (win-x86) - published on Monday, August 29, 2022 at 10:57 PM with 127 MB: https://statics.teams.cdn.office.net/production-windows/1.5.00.24174/Teams_windows.msi
-1.5.00.24174 (win-arm64) - published on Monday, August 29, 2022 at 11:08 PM with 132 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.24174/Teams_windows_arm64.exe
-1.5.00.24174 (win-arm64) - published on Monday, August 29, 2022 at 11:08 PM with 134 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.24174/Teams_windows_arm64.msi
-1.5.00.24165 (osx-x64) - published on Monday, August 29, 2022 at 10:12 PM with 205 MB: https://statics.teams.cdn.office.net/production-osx/1.5.00.24165/Teams_osx.pkg
+1.5.00.24255 (win-x64) - published on Tuesday, August 30, 2022 at 5:34 AM with 132 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.24255/Teams_windows_x64.exe
+1.5.00.24255 (win-x64) - published on Tuesday, August 30, 2022 at 5:34 AM with 134 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.24255/Teams_windows_x64.msi
+1.5.00.24255 (win-x86) - published on Tuesday, August 30, 2022 at 5:28 AM with 125 MB: https://statics.teams.cdn.office.net/production-windows/1.5.00.24255/Teams_windows.exe
+1.5.00.24255 (win-x86) - published on Tuesday, August 30, 2022 at 5:28 AM with 127 MB: https://statics.teams.cdn.office.net/production-windows/1.5.00.24255/Teams_windows.msi
+1.5.00.24255 (win-arm64) - published on Tuesday, August 30, 2022 at 5:40 AM with 132 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.24255/Teams_windows_arm64.exe
+1.5.00.24255 (win-arm64) - published on Tuesday, August 30, 2022 at 5:40 AM with 134 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.24255/Teams_windows_arm64.msi
+1.5.00.24253 (osx-x64) - published on Tuesday, August 30, 2022 at 5:27 AM with 205 MB: https://statics.teams.cdn.office.net/production-osx/1.5.00.24253/Teams_osx.pkg
 
 URLs for the latest exploration build of Microsoft Teams:
-1.5.00.24124 (win-x64) - published on Monday, August 29, 2022 at 11:06 PM with 132 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.24124/Teams_windows_x64.exe
-1.5.00.24124 (win-x64) - published on Monday, August 29, 2022 at 11:06 PM with 134 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.24124/Teams_windows_x64.msi
-1.5.00.24124 (win-x86) - published on Monday, August 29, 2022 at 11:00 PM with 125 MB: https://statics.teams.cdn.office.net/production-windows/1.5.00.24124/Teams_windows.exe
-1.5.00.24124 (win-x86) - published on Monday, August 29, 2022 at 11:00 PM with 127 MB: https://statics.teams.cdn.office.net/production-windows/1.5.00.24124/Teams_windows.msi
-1.5.00.24124 (win-arm64) - published on Monday, August 29, 2022 at 11:11 PM with 132 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.24124/Teams_windows_arm64.exe
-1.5.00.24124 (win-arm64) - published on Monday, August 29, 2022 at 11:11 PM with 134 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.24124/Teams_windows_arm64.msi
-1.5.00.24115 (osx-x64 + osx-arm64) - published on Monday, August 29, 2022 at 10:14 PM with 205 MB: https://statics.teams.cdn.office.net/production-osx/1.5.00.24115/Teams_osx.pkg
+1.5.00.24205 (win-x64) - published on Tuesday, August 30, 2022 at 5:37 AM with 132 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.24205/Teams_windows_x64.exe
+1.5.00.24205 (win-x64) - published on Tuesday, August 30, 2022 at 5:37 AM with 134 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.24205/Teams_windows_x64.msi
+1.5.00.24205 (win-x86) - published on Tuesday, August 30, 2022 at 5:31 AM with 125 MB: https://statics.teams.cdn.office.net/production-windows/1.5.00.24205/Teams_windows.exe
+1.5.00.24205 (win-x86) - published on Tuesday, August 30, 2022 at 5:31 AM with 127 MB: https://statics.teams.cdn.office.net/production-windows/1.5.00.24205/Teams_windows.msi
+1.5.00.24205 (win-arm64) - published on Tuesday, August 30, 2022 at 5:43 AM with 132 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.24205/Teams_windows_arm64.exe
+1.5.00.24205 (win-arm64) - published on Tuesday, August 30, 2022 at 5:43 AM with 134 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.5.00.24205/Teams_windows_arm64.msi
+1.5.00.24203 (osx-x64 + osx-arm64) - published on Tuesday, August 30, 2022 at 5:30 AM with 205 MB: https://statics.teams.cdn.office.net/production-osx/1.5.00.24203/Teams_osx.pkg
 
 URLs for the latest preview build of Microsoft Teams:
 1.5.00.21668 (win-x64) - published on Thursday, August 4, 2022 at 1:43 PM with 122 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.5.00.21668/Teams_windows_x64.exe
