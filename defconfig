@@ -24,7 +24,6 @@ URLs for the latest preview build of Microsoft Teams:
 1.6.00.376 (win-arm64) - published on Tuesday, January 3, 2023 at 7:06 PM with 133 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.376/Teams_windows_arm64.exe
 1.6.00.376 (win-arm64) - published on Tuesday, January 3, 2023 at 7:06 PM with 135 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.376/Teams_windows_arm64.msi
 1.5.00.35057 (osx-x64) - published on Friday, December 16, 2022 at 10:34 AM with 207 MB: https://statics.teams.cdn.office.net/production-osx/1.5.00.35057/Teams_osx.pkg
-1.5.00.23861 (linux-x64) - published on Tuesday, September 6, 2022 at 7:05 AM with 82 MB: https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams-insiders/teams-insiders_1.5.00.23861_amd64.deb
 1.5.00.23 (linux-x64) - published on Tuesday, September 6, 2022 at 7:05 AM with 111 MB: https://packages.microsoft.com/yumrepos/ms-teams/teams-insiders-1.5.00.23861-1.x86_64.rpm
 
 URLs for the latest production build of Microsoft Teams:
