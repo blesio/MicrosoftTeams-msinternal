@@ -1,7 +1,7 @@
 URLs for the latest Canary (R0) build of Microsoft Teams:
-23033.900.1844.620 (win-x64) - published on Thursday, February 2, 2023 at 8:19 PM with 43 MB: https://statics.teams.cdn.office.net/production-windows-x64/23033.900.1844.620/MicrosoftTeams-x64.msix
-23033.900.1844.620 (win-x86) - published on Thursday, February 2, 2023 at 8:21 PM with 39 MB: https://statics.teams.cdn.office.net/production-windows-x86/23033.900.1844.620/MicrosoftTeams-x86.msix
-23033.900.1844.620 (win-arm64) - published on Thursday, February 2, 2023 at 8:23 PM with 40 MB: https://statics.teams.cdn.office.net/production-windows-arm64/23033.900.1844.620/MicrosoftTeams-arm64.msix
+23034.1000.1845.8563 (win-x64) - published on Friday, February 3, 2023 at 2:16 PM with 46 MB: https://statics.teams.cdn.office.net/production-windows-x64/23034.1000.1845.8563/MicrosoftTeams-x64.msix
+23034.1000.1845.8563 (win-x86) - published on Friday, February 3, 2023 at 2:18 PM with 42 MB: https://statics.teams.cdn.office.net/production-windows-x86/23034.1000.1845.8563/MicrosoftTeams-x86.msix
+23034.1000.1845.8563 (win-arm64) - published on Friday, February 3, 2023 at 2:20 PM with 44 MB: https://statics.teams.cdn.office.net/production-windows-arm64/23034.1000.1845.8563/MicrosoftTeams-arm64.msix
 
 
 URLs for the latest Canary Slimcore (R0s) build of Microsoft Teams:
@@ -9,7 +9,6 @@ URLs for the latest Canary Slimcore (R0s) build of Microsoft Teams:
 1.6.00.3380 (win-x64) - published on Thursday, February 2, 2023 at 10:15 PM with 137 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.3380/Teams_windows_x64.msi
 1.6.00.3380 (win-x86) - published on Thursday, February 2, 2023 at 10:09 PM with 126 MB: https://statics.teams.cdn.office.net/production-windows/1.6.00.3380/Teams_windows.exe
 1.6.00.3380 (win-x86) - published on Thursday, February 2, 2023 at 10:09 PM with 129 MB: https://statics.teams.cdn.office.net/production-windows/1.6.00.3380/Teams_windows.msi
-1.6.00.3458 (osx-x64) - published on Friday, February 3, 2023 at 10:11 AM with 196 MB: https://statics.teams.cdn.office.net/production-osx/1.6.00.3458/Teams_osx.pkg
 
 
 URLs for the latest Teams (R1) build of Microsoft Teams:
@@ -20,9 +19,9 @@ URLs for the latest Teams (R1) build of Microsoft Teams:
 1.6.00.2979 (win-arm64) - published on Sunday, January 29, 2023 at 10:17 PM with 128 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.2979/Teams_windows_arm64.exe
 1.6.00.2979 (win-arm64) - published on Sunday, January 29, 2023 at 10:17 PM with 130 MB: https://statics.teams.cdn.office.net/production-windows-arm64/1.6.00.2979/Teams_windows_arm64.msi
 1.6.00.2954 (osx-x64) - published on Sunday, January 29, 2023 at 9:55 PM with 195 MB: https://statics.teams.cdn.office.net/production-osx/1.6.00.2954/Teams_osx.pkg
-23033.900.1844.620 (win-x64) - published on Thursday, February 2, 2023 at 8:19 PM with 43 MB: https://statics.teams.cdn.office.net/production-windows-x64/23033.900.1844.620/MicrosoftTeams-x64.msix
-23033.900.1844.620 (win-x86) - published on Thursday, February 2, 2023 at 8:21 PM with 39 MB: https://statics.teams.cdn.office.net/production-windows-x86/23033.900.1844.620/MicrosoftTeams-x86.msix
-23033.900.1844.620 (win-arm64) - published on Thursday, February 2, 2023 at 8:23 PM with 40 MB: https://statics.teams.cdn.office.net/production-windows-arm64/23033.900.1844.620/MicrosoftTeams-arm64.msix
+23034.1000.1845.8563 (win-x64) - published on Friday, February 3, 2023 at 2:16 PM with 46 MB: https://statics.teams.cdn.office.net/production-windows-x64/23034.1000.1845.8563/MicrosoftTeams-x64.msix
+23034.1000.1845.8563 (win-x86) - published on Friday, February 3, 2023 at 2:18 PM with 42 MB: https://statics.teams.cdn.office.net/production-windows-x86/23034.1000.1845.8563/MicrosoftTeams-x86.msix
+23034.1000.1845.8563 (win-arm64) - published on Friday, February 3, 2023 at 2:20 PM with 44 MB: https://statics.teams.cdn.office.net/production-windows-arm64/23034.1000.1845.8563/MicrosoftTeams-arm64.msix
 
 
 URLs for the latest IT Admins Preview (R1.5 or BETA) build of Microsoft Teams:
