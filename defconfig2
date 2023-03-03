@@ -1,7 +1,7 @@
 URLs for the latest Canary (R0) build of Microsoft Teams:
-23060.1000.1904.7374 (win-x64) - published on Wednesday, March 1, 2023 at 8:25 PM with 47 MB: https://statics.teams.cdn.office.net/production-windows-x64/23060.1000.1904.7374/MicrosoftTeams-x64.msix
-23060.1000.1904.7374 (win-x86) - published on Wednesday, March 1, 2023 at 8:27 PM with 43 MB: https://statics.teams.cdn.office.net/production-windows-x86/23060.1000.1904.7374/MicrosoftTeams-x86.msix
-23060.1000.1904.7374 (win-arm64) - published on Wednesday, March 1, 2023 at 8:29 PM with 44 MB: https://statics.teams.cdn.office.net/production-windows-arm64/23060.1000.1904.7374/MicrosoftTeams-arm64.msix
+23061.700.1906.8760 (win-x64) - published on Thursday, March 2, 2023 at 2:49 PM with 47 MB: https://statics.teams.cdn.office.net/production-windows-x64/23061.700.1906.8760/MicrosoftTeams-x64.msix
+23061.700.1906.8760 (win-x86) - published on Thursday, March 2, 2023 at 2:52 PM with 43 MB: https://statics.teams.cdn.office.net/production-windows-x86/23061.700.1906.8760/MicrosoftTeams-x86.msix
+23061.700.1906.8760 (win-arm64) - published on Thursday, March 2, 2023 at 2:57 PM with 44 MB: https://statics.teams.cdn.office.net/production-windows-arm64/23061.700.1906.8760/MicrosoftTeams-arm64.msix
 
 
 URLs for the latest Canary Slimcore (R0s) build of Microsoft Teams:
@@ -9,6 +9,7 @@ URLs for the latest Canary Slimcore (R0s) build of Microsoft Teams:
 1.6.00.6082 (win-x64) - published on Wednesday, March 1, 2023 at 10:56 PM with 137 MB: https://statics.teams.cdn.office.net/production-windows-x64/1.6.00.6082/Teams_windows_x64.msi
 1.6.00.6082 (win-x86) - published on Wednesday, March 1, 2023 at 10:50 PM with 127 MB: https://statics.teams.cdn.office.net/production-windows/1.6.00.6082/Teams_windows.exe
 1.6.00.6082 (win-x86) - published on Wednesday, March 1, 2023 at 10:50 PM with 129 MB: https://statics.teams.cdn.office.net/production-windows/1.6.00.6082/Teams_windows.msi
+1.6.00.6156 (osx-x64) - published on Thursday, March 2, 2023 at 2:38 PM with 196 MB: https://statics.teams.cdn.office.net/production-osx/1.6.00.6156/Teams_osx.pkg
 
 
 URLs for the latest Teams (R1) build of Microsoft Teams:
